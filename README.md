@@ -5,6 +5,7 @@ The PolyU x NuttyShell CTF 2024 presented a diverse range of challenges covering
 
 ## Challenges and Solutions
 Each folder in this repository corresponds to a specific challenge we encountered during the CTF. Inside each folder, you'll find a detailed markdown file (README.md)
+- [Tony's write-up](https://github.com/hospotho/ctf_record/tree/main)
 
 ## Team Members
 - [Tony (hospotho)](https://github.com/hospotho)
